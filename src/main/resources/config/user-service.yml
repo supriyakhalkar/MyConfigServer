@@ -1,0 +1,7 @@
+---
+
+server:
+  port: 3000
+synerzip:
+  user:
+    bu: BU-5
